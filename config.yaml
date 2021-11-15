@@ -1,14 +1,23 @@
 baseURL: https://dgkwon90.github.io
-languageCode: en-us
-title: "Always-Always Blog"
 theme: "toha"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
-languages:
-  en:
-    languageName: English
+defaultContentLanguage: ko
+defaultContentLanguageInSubdir: false
+
+languages: 
+   ko:
+    languageName: 한국어
+    languageCode: ko-kr
+    title: "늘상 Blog"
     weight: 1
+    
+  #  en:
+  #   languageName: English
+  #   languageCode: en-us
+  #   title: "Always-Always Blog"
+  #   weight: 2
 
 # Control TOC depth
 markup:

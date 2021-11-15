@@ -1,10 +1,10 @@
 # section information
 section:
-  name: Achievements
+  name: 성취물
   id: achievements
   enable: true
-  weight: 6
-  showOnNavbar: true
+  weight: 5
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 

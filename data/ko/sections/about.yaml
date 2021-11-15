@@ -1,0 +1,67 @@
+# section information
+section:
+  name: 소개
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: 백엔드 개발자
+# your company information
+company:
+  name: Kaonmedia Co.
+  url: "http://www.kaonmedia.com"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/daegeun.pdf"
+
+# a summary about you
+summary: '저는 7년차 백엔드 개발자입니다. 현재 Golnag을 사용하여 Kubernetes 환경에서 IoT Device들을 제어하는 서비스의 서버를 구축하였습니다. 이 외에도 사내에서 빌드 및 배포를 담당하고 있습니다. 그래서 CI/CD에 많은 관심을 갖고 있습니다.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "dgkwon90@gamil.com"
+  
+#- name: Github
+#  icon: "fab fa-github"
+#  url: "https://www.github.com/example"
+
+#- name: Stackoverflow
+#  icon: "fab fa-stack-overflow"
+#  url: "#"
+  
+#- name: LinkedIn
+#  icon: "fab fa-linkedin"
+#  url: "#"
+
+#- name: Twitter
+#  icon: "fab fa-twitter"
+#  url: "#"
+
+#- name: Facebook
+#  icon: "fab fa-facebook"
+#  url: "#"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: soft-skill-indicator
+  name: 책임감
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: 팀워크
+  percentage: 90
+  color: yellow
+  
+- type: certification
+  name: Certified Kubernetes Security Specialist
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"

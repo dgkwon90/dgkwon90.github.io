@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: 프로젝트
   id: projects
   enable: true
   weight: 4
@@ -16,8 +16,8 @@ buttons:
   filter: "professional"
 - name: Academic
   filter: "academic"
-- name: Hobby
-  filter: "hobby"
+- name: Hoby
+  filter: "hoby"
 
 # your projects
 projects:
@@ -45,4 +45,4 @@ projects:
   timeline: "Jun 2019 - Present"
   repo: https://github.com/hossainemruz/toha
   summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  tags: ["hoby","hugo","theme","professional"]
