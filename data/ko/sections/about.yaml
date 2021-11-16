@@ -23,10 +23,14 @@ summary: '저는 7년차 백엔드 개발자입니다. 현재 Golnag을 사용�
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
+- name: 메일
   icon: "fas fa-envelope"
   url: "dgkwon90@gamil.com"
   
+- name: 블로그
+  icon: "fas fa-blog"
+  url: "https://always-always.tistory.com/"
+
 #- name: Github
 #  icon: "fab fa-github"
 #  url: "https://www.github.com/example"

@@ -10,7 +10,7 @@ languages:
    ko:
     languageName: 한국어
     languageCode: ko-kr
-    title: "늘상 Blog"
+    title: "늘상 기술 블로그"
     weight: 1
     
   #  en:
