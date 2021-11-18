@@ -31,9 +31,9 @@ socialLinks:
   icon: "fas fa-blog"
   url: "https://always-always.tistory.com/"
 
-#- name: Github
-#  icon: "fab fa-github"
-#  url: "https://www.github.com/example"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/dgkwon90"
 
 #- name: Stackoverflow
 #  icon: "fab fa-stack-overflow"

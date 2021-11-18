@@ -1,15 +1,17 @@
 ---
 title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
+date: 2021-11-18T11:35:25+06:00
 description: 테스트용 포스트
 menu:
   sidebar:
     name: Introduction
-    identifier: Introduction
-    weight: 10
+    identifier: introduction
+    weight: 1
 tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
+
+
 
 안녕 합니다. 이 포스트는 테스트용 입니다:
 
